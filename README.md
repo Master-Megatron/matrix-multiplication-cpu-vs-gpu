@@ -14,7 +14,6 @@
 - [Results](#results)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Methodology](#methodology)
 - [Contributing](#contributing)
 - [Contact](#contact)
@@ -186,33 +185,6 @@ DTYPE = np.float64  # Default: float32
 
 ---
 
-## 📂 Project Structure
-```
-matrix-multiplication-cpu-vs-gpu/
-│
-├── notebooks/
-│   └── Matrix_Multiplication_FINAL.ipynb  # Main notebook
-│
-├── results/
-│   ├── benchmark_visualization.png        # Performance graphs
-│   ├── benchmark_results.csv              # Raw data
-│   └── analysis_summary.txt               # Text summary
-│
-├── docs/
-│   ├── theory.md                          # Theoretical background
-│   ├── setup_guide.md                     # Setup instructions
-│   └── architecture_comparison.md         # CPU vs GPU architecture
-│
-├── images/
-│   └── [visualization assets]
-│
-├── README.md                              # This file
-├── LICENSE                                # MIT License
-├── requirements.txt                       # Python dependencies
-└── .gitignore                             # Git ignore rules
-```
-
----
 
 ## 🔬 Methodology
 
