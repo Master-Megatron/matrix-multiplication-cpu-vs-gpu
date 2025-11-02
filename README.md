@@ -91,7 +91,7 @@ This project implements and analyzes the performance of matrix multiplication al
 ### Option 2: Local Setup
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/matrix-multiplication-cpu-vs-gpu.git
+git clone https://github.com/Master-Megatron/matrix-multiplication-cpu-vs-gpu.git
 cd matrix-multiplication-cpu-vs-gpu
 
 # Install dependencies (requires CUDA-capable GPU)
