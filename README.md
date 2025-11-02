@@ -17,7 +17,6 @@
 - [Project Structure](#project-structure)
 - [Methodology](#methodology)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -301,12 +300,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [ ] Multi-GPU benchmarking
 - [ ] AMD GPU (ROCm) support
 - [ ] Detailed profiling (memory bandwidth, cache hits)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
